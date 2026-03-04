@@ -1,10 +1,8 @@
 //Muhammad Rafay Khan, #39-SecB, First Year Evening.
-//Assignment Question: create a java program which takes input of matrices
-//and print the sum of its rows and sums coloumns and also the sum of forward and reverse diagnals
 
 import java.util.Scanner;
 
-public class MatrixSums {
+public class Assignment1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
